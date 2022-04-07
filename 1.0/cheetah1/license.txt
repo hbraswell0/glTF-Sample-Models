@@ -1,0 +1,11 @@
+Model Information:
+* title:	Mechanical Cheetah
+* source:	https://sketchfab.com/3d-models/mechanical-cheetah-028247f68a684583ae290277083c833b
+* author:	SplitStudios (https://sketchfab.com/splitstudios)
+
+Model License:
+* license type:	CC-BY-NC-4.0 (http://creativecommons.org/licenses/by-nc/4.0/)
+* requirements:	Author must be credited. No commercial use.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Mechanical Cheetah" (https://sketchfab.com/3d-models/mechanical-cheetah-028247f68a684583ae290277083c833b) by SplitStudios (https://sketchfab.com/splitstudios) licensed under CC-BY-NC-4.0 (http://creativecommons.org/licenses/by-nc/4.0/)
